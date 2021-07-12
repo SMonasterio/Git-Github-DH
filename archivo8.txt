@@ -3,3 +3,5 @@ New
 Create repository
 git clone
 git pull
+CAMBIOS
+git add
