@@ -1,0 +1,6 @@
+LOCAL
+git init
+git config (user)
+git config (email)
+git remote: sincroniza un repositorio  que esta en la nube con mi repositorio local.
+git pull
