@@ -1,1 +1,5 @@
-PARTICPANTE A 
+<<<<<<< HEAD
+
+contenido archivo 2
+agregado conflicto participante b
+>>>>>>> 13f7feaadc436c9c16d516a54249a89b04ee2afe
