@@ -1,2 +1,4 @@
+
 contenido archivo 2
 agregado conflicto participante b
+creando conflicto participante c
